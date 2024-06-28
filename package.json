@@ -1,0 +1,22 @@
+{
+  "name": "customconsoletesting",
+  "version": "1.0.0",
+  "description": "creating a custom console ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "type": "module",
+  "keywords": [
+    "custom-console",
+    "console.log",
+    "console.dev"
+  ],
+  "author": "Ayush",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
